@@ -1,0 +1,4 @@
+Tener en cuenta:
+
+Este proyecto realiza la impresion de tickets. para realizar correctamente esta impresion; es necesario utilizar la aplicacion 
+TMVIRTUALPORTDRIVER840.EXE, esta aplicacion tiene como funcion permitir la conexion de la aplicacion con el puerto.
